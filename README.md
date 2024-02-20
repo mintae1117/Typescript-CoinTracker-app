@@ -1,1 +1,2 @@
-link : https://fascinating-gumption-5b2967.netlify.app/
+crypto tracker clone coding using typescript etc
+link : https://crypto-tracker-mt.netlify.app/
